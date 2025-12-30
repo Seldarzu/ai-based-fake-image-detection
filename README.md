@@ -48,5 +48,5 @@ The notebook follows a structured workflow:
 ---
 
 ## 👩‍💻 Author
-Arzu Selda Avcı  
+Arzu Selda Avcı  -Ayaz Aktaş
 Computer Engineering
